@@ -2,7 +2,7 @@
 /**
  * groups-file-access-custom-response.php
  *
- * Copyright (c) 2020 "kento" Karim Rahimpur www.itthinx.com
+ * Copyright (c) 2020 www.itthinx.com
  *
  * This code is provided subject to the license granted.
  * Unauthorized use and distribution is prohibited.
@@ -15,7 +15,7 @@
  *
  * This header and all notices must be kept intact.
  *
- * @author Karim Rahimpur
+ * @author itthinx
  * @package groups-debug-buckets
  * @since groups-debug-buckets 1.0.0
  *
@@ -24,7 +24,7 @@
  * Description: Example of customized server responses for <a href="https://www.itthinx.com/shop/groups-file-access/">Groups File Access</a>.
  * Version: 1.0.0
  * Author: itthinx
- * Author URI: http://www.itthinx.com
+ * Author URI: https://www.itthinx.com
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
